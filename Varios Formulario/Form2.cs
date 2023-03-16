@@ -22,5 +22,10 @@ namespace Varios_Formulario
         {
 
         }
+
+        private void btnFECHAR_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
     }
 }
